@@ -133,8 +133,9 @@
                         <div class="col-lg-4">
                             <div class="testimonial__item">
                                 <div class="testimonial__text">
-                                    <p>"All the skills that I use in my day to day life now where taught to me by Speech and Debate."
-                                </p>
+                                    <p>"The skills I have learned in speech and debate help me everywhere
+."
+                                 </p>
                                 </div>
                                 <div class="testimonial__author">
                                     <div class="testimonial__author__pic">
