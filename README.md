@@ -6,7 +6,7 @@
         <meta name="keywords" content="Videograph, unica, creative, html">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>About | American High School</title>
+        <title>About | AHS S&D</title>
 
         <!-- Google Font -->
         <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
@@ -44,7 +44,7 @@
                                 <ul>
                                     <li><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
                                     <li><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
-                                    <li><a href="https://ahs-speech-debate.github.io/-about/">Resources</a></li>
+                                    <li><a href="https://ahs-speech-debate.github.io/-resources/">Resources</a></li>
                                     <li><a href="https://ahs-speech-debate.github.io/-about/">About</a></li>
                                 </ul>
                             </nav>
